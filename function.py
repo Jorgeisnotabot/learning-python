@@ -11,4 +11,3 @@ second = get_number("Enter second number: ")
 total = first + second
 
 print(f"The sum of the numbers is {total}")
-
